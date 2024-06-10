@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R30ShwdOpkipoazxVCVgR0sIFf0510aCycAebToJyMMzN4Z8ouGTty2rBJfjgNCSlUZlv/X+nStc0Ik2GIHrEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chouk\\OneDrive\\Bureau\\Sum1000\\Sum1000.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chouk\\.nuget\\packages\\fsharp.core\\8.0.101\\fsharp.core.8.0.101.nupkg.sha512"
+  ],
+  "logs": []
+}
